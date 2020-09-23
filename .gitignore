@@ -90,3 +90,4 @@ lint/tmp/
 
 *.o
 *.so
+app/src/main/jniLibs
